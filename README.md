@@ -43,10 +43,11 @@ The Jupyter Notebook included in this repository contains the following sections
 
   ### Steps to Run:
 
-Clone the repository to your local machine.
-Navigate to the project directory.
-Open the terminal and start Jupyter Notebook by running jupyter notebook.
-Open the Maji Ndogo project [Part2].ipynb notebook and run the cells sequentially.
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Open the terminal and start Jupyter Notebook by running jupyter notebook.
+4. Open the Maji Ndogo project [Part2].ipynb notebook and run the cells sequentially.
+5. To connect with the MYSQL Database you first run this code: # %load_ext sql
 
 # Acknowledgments
 This project is part of an intensive data science course provided by ALX Africa. The data and problem statement are derived from the real-world challenges faced by Maji Ndogo. Special thanks to the team members and mentors for their guidance and support throughout this project.
