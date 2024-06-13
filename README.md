@@ -37,9 +37,9 @@ The Jupyter Notebook included in this repository contains the following sections
 # How to Run the Notebook
   ### Prerequisites:
 
-Python 3.x
-Jupyter Notebook
-Required Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, and any other specified in the notebook.
+1. Python 3.x.
+2. Jupyter Notebook
+3. Required Python libraries: pandas, numpy, matplotlib, and any other specified in the notebook.
 
   ### Steps to Run:
 
